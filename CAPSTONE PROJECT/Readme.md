@@ -1,4 +1,4 @@
-# Analisi dei Dati di Raccolta Differenziata
+# Analisi dei Dati di Raccolta Differenziata comune Decollatura per gli anni 2021-2024
 
 Questo repository contiene il file Power BI (`.pbix`) utilizzato per analizzare i dati relativi alla raccolta differenziata. L'obiettivo del progetto è fornire una panoramica completa e dettagliata dei dati, consentendo di monitorare le performance, identificare trend e valutare l'efficacia del sistema di gestione dei rifiuti.
 
